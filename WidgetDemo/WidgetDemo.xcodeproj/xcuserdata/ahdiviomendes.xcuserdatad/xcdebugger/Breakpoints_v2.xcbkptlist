@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9D41E09B-78D3-41F3-B7DD-075E0C38689D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "953CCE7C-16AB-4DFD-A3C8-514B33882734"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WidgetDemo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "stopTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "953CCE7C-16AB-4DFD-A3C8-514B33882734 - fc91def83bc3e492"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WidgetDemo.ContentView.stopTimer() -&gt; ()"
+                  moduleName = "WidgetDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/MyProjects/WidgetDemo/WidgetDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "953CCE7C-16AB-4DFD-A3C8-514B33882734 - ae84e7c8e7ddd76a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in WidgetDemo.ContentView.stopTimer() -&gt; ()"
+                  moduleName = "WidgetDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/MyProjects/WidgetDemo/WidgetDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "953CCE7C-16AB-4DFD-A3C8-514B33882734 - ba9fae7a9c99589c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in WidgetDemo.ContentView.stopTimer() -&gt; ()"
+                  moduleName = "WidgetDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/MyProjects/WidgetDemo/WidgetDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "953CCE7C-16AB-4DFD-A3C8-514B33882734 - c286739d9fd7eddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in WidgetDemo.ContentView.stopTimer() -&gt; ()"
+                  moduleName = "WidgetDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/MyProjects/WidgetDemo/WidgetDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "953CCE7C-16AB-4DFD-A3C8-514B33882734 - a2820c2ad37022b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in WidgetDemo.ContentView.stopTimer() -&gt; ()"
+                  moduleName = "WidgetDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/MyProjects/WidgetDemo/WidgetDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "953CCE7C-16AB-4DFD-A3C8-514B33882734 - bdff41ad724ca2d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;()&gt; in WidgetDemo.ContentView.stopTimer() -&gt; ()"
+                  moduleName = "WidgetDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/MyProjects/WidgetDemo/WidgetDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
